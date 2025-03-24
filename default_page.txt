@@ -23,6 +23,7 @@
 /swagger-ui/index.html
 /swagger-ui.html
 /v2/api-docs
+/v3/api-docs
 /jwks.json
 /.well-known/jwks.json
 /actuator/
